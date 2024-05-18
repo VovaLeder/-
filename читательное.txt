@@ -9,3 +9,6 @@ https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html
 https://pytorch.org/tutorials/recipes/recipes/saving_and_loading_a_general_checkpoint.html
 https://pytorch.org/tutorials/recipes/recipes/module_load_state_dict_tips.html?highlight=loading%20nn%20module%20from%20checkpoint
 https://pytorch.org/tutorials/beginner/saving_loading_models.html
+
+https://www.youtube.com/watch?v=JeYP9eyIl4E&t=1s - Драйватары Forza
+http://web.archive.org/web/20140208083127/http://research.microsoft.com/en-us/projects/drivatar/forza.aspx - они же
